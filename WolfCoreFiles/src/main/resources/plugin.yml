@@ -1,0 +1,6 @@
+name: WolfCore
+version: ${project.version}
+main: me.dylanwolf.wolfcore.WolfCore
+api-version: 1.16
+authors: [ DylanWolf ]
+description: A core Minecraft server plugin.
